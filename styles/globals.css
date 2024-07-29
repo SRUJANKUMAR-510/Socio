@@ -1,0 +1,24 @@
+
+/* styles/globals.css */
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+  }
+  
+  main {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .hero {
+    margin-bottom: 2rem;
+  }
+  
+  .analytics {
+    background: #f0f0f0;
+    padding: 1rem;
+    border-radius: 8px;
+  }
+  
